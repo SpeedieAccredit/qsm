@@ -1,8 +1,5 @@
 # QUALITY MANAGEMENT SYSTEM MANUAL
 
-<p>test</p>
-<h2>test2</h2>
-
 ## Table of Contents
 
 1. [INTRODUCTION](https://github.com/speedie-and-associates/qsm#introduction)
@@ -105,9 +102,10 @@ All sampling and testing will be performed in accordance with:
 ## ORGANIZATION and ORGANIZATIONAL POLICIES
 
 ###	Legal Name and Address
-**Name:**
-
-Speedie and Associates, Inc.
+<p>
+	<b>Name:</b>
+	Speedie and Associates, Inc.
+</p>
 
 **Main Address:**
 3331 East Wood Street
