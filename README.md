@@ -2,87 +2,87 @@
  
 ## Table of Contents
 
-1. INTRODUCTION	4
-	1. 	Quality Policy Statement	4
-	2. 	Purpose and Assignment of Responsibility	4
-	3.	Governing Documents	4
-2. ORGANIZATION and ORGANIZATIONAL POLICIES	5
-	1.	Legal Name and Address	5
-	2.	Owners, Officers, and Managers	5
-		1.	Principal Officers and Managers	5
-		2.	Owners	5
-	3.	Authorized Signatories	5
-		1.	Financial Signatories	6
-		2.	Contractual Signatories	6
-		3. 	Technical Report Signatories	6
-	4. 	External Accreditation Programs	7
-	5.	Ownership and Management Structure	7
-3. STAFF	8
-3.1	Position Descriptions	8
-3.2	Biographies	10
-3.3	Personnel Training	11
-3.3.1	Technical Training	11
-3.3.2	Competency Evaluations	11
-3.3.3	Training and Competency Evaluation Forms	12
-3.3.4	Safety Training	12
-4. FACILITIES and EQUIPMENT	12
-4.1	Facilities	12
-4.2 	Inventory	12
-4.3	Consumable Materials	13
-4.3.1	Purchasing and Receiving	13
-4.3.2	Storage and Use	13
-4.4	Equipment Calibration and Verification	13
-4.4.1	Equipment Maintenance	13
-4.4.2	Defective Equipment/Deficient Testing Procedures	14
-4.4.3	Repaired Equipment	14
-4.4.4 	Calibration and Verification Procedures	14
-4.4.5	Internal Procedures	15
-4.5	IT Equipment	15
-4.5.1	Software	15
-4.5.2	Hardware	15
-4.5.3	Data Integrity	15
-5. TEST RECORDS and REPORTS	16
-5.1	Test Recording Procedures	16
-5.1.1	Sample Log-in	16
-5.1.2	Material Testing	16
-5.1.3	Departures from Standard Testing/Reporting Procedures	16
-5.2	Report Generation	17
-5.2.1	Internal Reports	17
-5.2.2 	External Reports	17
-5.2.3	Distribution of Reports	17
-5.2.4	Amended Reports	18
-5.3	Records Retention	18
-5.3.1	Client Confidentiality Agreement	18
-5.4	Sample Management	18
-5.4.1	Transporting Samples	18
-5.4.2	Sample Identification	19
-5.4.3 	Sample Storage	19
-5.4.4	Sample Retention	19
-5.4.5	Sample Disposal	19
-6. DIAGNOSTIC and CORRECTIVE ACTION	20
-6.1 	Proficiency Sample Programs	20
-6.1.1	Participation	20
-6.1.2	Substandard Results and Corrective Measures	20
-6.2	On-site Inspection Programs	21
-6.2.1	Participation	21
-6.2.2	Deficiencies and Corrective Measures	21
-6.3	Internal Correlation Testing Program	22
-6.4	External Technical Complaints	23
-7. INTERNAL QUALITY SYSTEM REVIEW	24
-7.1	Internal Review	24
-7.2	Management Review	24
-8. SUB-CONTRACTING	25
-8.1	Technical Contracting	25
-8.2	Calibration Contracting	25
-9. TECHNICAL SERVICES OFFERED	26
-9.1	Contract Services	26
-9.2	Implementation of New Services	26
-9.3	Test Methods Performed	26
-9.3.1	Phoenix Laboratory	26
-9.3.2	Tucson Laboratory	27
+1. [INTRODUCTION](https://github.com/speedie-and-associates/qsm##introduction)
+	1. 	Quality Policy Statement
+	2. 	Purpose and Assignment of Responsibility
+	3.	Governing Documents
+2. ORGANIZATION and ORGANIZATIONAL POLICIES
+	1.	Legal Name and Address
+	2.	Owners, Officers, and Managers
+		1.	Principal Officers and Managers
+		2.	Owners
+	3.	Authorized Signatories
+		1.	Financial Signatories
+		2.	Contractual Signatories
+		3. 	Technical Report Signatories
+	4. 	External Accreditation Programs
+	5.	Ownership and Management Structure
+3. STAFF
+3.1	Position Descriptions
+3.2	Biographies	
+3.3	Personnel Training	
+3.3.1	Technical Training	
+3.3.2	Competency Evaluations	
+3.3.3	Training and Competency Evaluation Forms	
+3.3.4	Safety Training	
+4. FACILITIES and EQUIPMENT	
+4.1	Facilities	
+4.2 	Inventory	
+4.3	Consumable Materials	
+4.3.1	Purchasing and Receiving	
+4.3.2	Storage and Use	
+4.4	Equipment Calibration and Verification	
+4.4.1	Equipment Maintenance	
+4.4.2	Defective Equipment/Deficient Testing Procedures	
+4.4.3	Repaired Equipment	
+4.4.4 	Calibration and Verification Procedures	
+4.4.5	Internal Procedures	
+4.5	IT Equipment	
+4.5.1	Software	
+4.5.2	Hardware	
+4.5.3	Data Integrity	
+5. TEST RECORDS and REPORTS	
+5.1	Test Recording Procedures	
+5.1.1	Sample Log-in	
+5.1.2	Material Testing	
+5.1.3	Departures from Standard Testing/Reporting Procedures	
+5.2	Report Generation	
+5.2.1	Internal Reports	
+5.2.2 	External Reports	
+5.2.3	Distribution of Reports	
+5.2.4	Amended Reports	
+5.3	Records Retention	
+5.3.1	Client Confidentiality Agreement	
+5.4	Sample Management	
+5.4.1	Transporting Samples	
+5.4.2	Sample Identification	
+5.4.3 	Sample Storage	
+5.4.4	Sample Retention	
+5.4.5	Sample Disposal	
+6. DIAGNOSTIC and CORRECTIVE ACTION	
+6.1 	Proficiency Sample Programs	
+6.1.1	Participation	
+6.1.2	Substandard Results and Corrective Measures	
+6.2	On-site Inspection Programs	
+6.2.1	Participation	
+6.2.2	Deficiencies and Corrective Measures	
+6.3	Internal Correlation Testing Program	
+6.4	External Technical Complaints	
+7. INTERNAL QUALITY SYSTEM REVIEW	
+7.1	Internal Review	
+7.2	Management Review	
+8. SUB-CONTRACTING	
+8.1	Technical Contracting	
+8.2	Calibration Contracting	
+9. TECHNICAL SERVICES OFFERED	
+9.1	Contract Services	
+9.2	Implementation of New Services	
+9.3	Test Methods Performed	
+9.3.1	Phoenix Laboratory	
+9.3.2	Tucson Laboratory	
  
-1. INTRODUCTION
-1.1 	Quality Policy Statement
+## INTRODUCTION
+###	Quality Policy Statement
 Speedie and Associates was established in 1980 to provide materials, geotechnical, and environmental engineering to clients who require superior service and timely results. Our objectives are to provide the information our clients need to make knowledgeable, cost-effective business decisions, decisions which help improve quality, reduce expenses, and decrease liability on their projects.  Our senior management is dedicated to ensuring the quality and efficiency of the projects on which we work by performing annual reviews with all technical staff to ensure that their performance meets all quality expectations; by participating in all applicable proficiency sample programs at the national, regional, and local level; and by performing in house round robin checks of specific tests to ensure the accuracy and repeatability of test results. The laboratory shall establish, implement, and maintain a quality system which meets the requirements specified in AASHTO R18. The laboratory shall have and maintain the current ADOT Materials Testing Manual. The manual shall be readily accessible to all laboratory personnel.
 
 1.2 	Purpose and Assignment of Responsibility
