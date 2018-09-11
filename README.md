@@ -1,4 +1,6 @@
 # QUALITY MANAGEMENT SYSTEM MANUAL
+
+#fix
  
 ## Table of Contents
 
@@ -107,7 +109,6 @@ All sampling and testing will be performed in accordance with:
 Speedie and Associates, Inc.
 
 **Main Address:**
-
 3331 East Wood Street
 Phoenix, Arizona   85040
 	
