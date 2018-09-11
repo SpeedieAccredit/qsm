@@ -1,7 +1,8 @@
 # QUALITY MANAGEMENT SYSTEM MANUAL
 
-#fix
- 
+<p>test</p>
+<h2>test2</h2>
+
 ## Table of Contents
 
 1. [INTRODUCTION](https://github.com/speedie-and-associates/qsm#introduction)
