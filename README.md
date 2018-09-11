@@ -2,7 +2,7 @@
  
 ## Table of Contents
 
-1. [INTRODUCTION](https://github.com/speedie-and-associates/qsm##introduction)
+1. [INTRODUCTION](https://github.com/speedie-and-associates/qsm#introduction)
 	1. 	Quality Policy Statement
 	2. 	Purpose and Assignment of Responsibility
 	3.	Governing Documents
