@@ -173,7 +173,7 @@ The following individuals are authorized to sign both internal and external repo
 ### 	External Accreditation Programs
 The following is a list of agencies which inspect our facilities, personnel, equipment, procedures, and quality systems for purposes of accreditation, recognition, and qualification. 
 AGENCY | ACCREDITATION | INSPECTION | INITIAL DATE
-______ | _____________ | __________ | ____________
+------ | ------------- | ---------- | ------------
 ADOT | :ballot_box_with_check: | :ballot_box_with_check: | 11/24/85
 AASHTO | :ballot_box_with_check: | | 11/01/89
 AASHTO re:source | | :ballot_box_with_check: | 11/28/86
