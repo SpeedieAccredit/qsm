@@ -6,7 +6,7 @@
 	1. 	Quality Policy Statement
 	2. 	Purpose and Assignment of Responsibility
 	3.	Governing Documents
-2. ORGANIZATION and ORGANIZATIONAL POLICIES
+2. [ORGANIZATION and ORGANIZATIONAL POLICIES](https://github.com/speedie-and-associates/qsm#organization)
 	1.	Legal Name and Address
 	2.	Owners, Officers, and Managers
 		1.	Principal Officers and Managers
@@ -18,77 +18,77 @@
 	4. 	External Accreditation Programs
 	5.	Ownership and Management Structure
 3. STAFF
-3.1	Position Descriptions
-3.2	Biographies	
-3.3	Personnel Training	
-3.3.1	Technical Training	
-3.3.2	Competency Evaluations	
-3.3.3	Training and Competency Evaluation Forms	
-3.3.4	Safety Training	
+	1.	Position Descriptions
+	2.	Biographies	
+	3.	Personnel Training	
+		1.	Technical Training	
+		2.	Competency Evaluations	
+		3.	Training and Competency Evaluation Forms	
+		4.	Safety Training	
 4. FACILITIES and EQUIPMENT	
-4.1	Facilities	
-4.2 	Inventory	
-4.3	Consumable Materials	
-4.3.1	Purchasing and Receiving	
-4.3.2	Storage and Use	
-4.4	Equipment Calibration and Verification	
-4.4.1	Equipment Maintenance	
-4.4.2	Defective Equipment/Deficient Testing Procedures	
-4.4.3	Repaired Equipment	
-4.4.4 	Calibration and Verification Procedures	
-4.4.5	Internal Procedures	
-4.5	IT Equipment	
-4.5.1	Software	
-4.5.2	Hardware	
-4.5.3	Data Integrity	
+	1.	Facilities	
+	2. Inventory	
+	3.	Consumable Materials	
+		1.	Purchasing and Receiving	
+		2.	Storage and Use	
+	4.	Equipment Calibration and Verification	
+		1.	Equipment Maintenance	
+		2.	Defective Equipment/Deficient Testing Procedures	
+		3.	Repaired Equipment	
+		4. 	Calibration and Verification Procedures	
+		5.	Internal Procedures	
+	5.	IT Equipment	
+		1.	Software	
+		2.	Hardware	
+		3.	Data Integrity	
 5. TEST RECORDS and REPORTS	
-5.1	Test Recording Procedures	
-5.1.1	Sample Log-in	
-5.1.2	Material Testing	
-5.1.3	Departures from Standard Testing/Reporting Procedures	
-5.2	Report Generation	
-5.2.1	Internal Reports	
-5.2.2 	External Reports	
-5.2.3	Distribution of Reports	
-5.2.4	Amended Reports	
-5.3	Records Retention	
-5.3.1	Client Confidentiality Agreement	
-5.4	Sample Management	
-5.4.1	Transporting Samples	
-5.4.2	Sample Identification	
-5.4.3 	Sample Storage	
-5.4.4	Sample Retention	
-5.4.5	Sample Disposal	
+	1.	Test Recording Procedures	
+		1.	Sample Log-in	
+		2.	Material Testing	
+		3.	Departures from Standard Testing/Reporting Procedures	
+	2.	Report Generation	
+		1.	Internal Reports	
+		2. 	External Reports	
+		3.	Distribution of Reports	
+		4.	Amended Reports	
+	3.	Records Retention	
+		1.	Client Confidentiality Agreement	
+	4.	Sample Management	
+		1.	Transporting Samples	
+		2.	Sample Identification	
+		3. 	Sample Storage	
+		4.	Sample Retention	
+		5.	Sample Disposal	
 6. DIAGNOSTIC and CORRECTIVE ACTION	
-6.1 	Proficiency Sample Programs	
-6.1.1	Participation	
-6.1.2	Substandard Results and Corrective Measures	
-6.2	On-site Inspection Programs	
-6.2.1	Participation	
-6.2.2	Deficiencies and Corrective Measures	
-6.3	Internal Correlation Testing Program	
-6.4	External Technical Complaints	
+	1. 	Proficiency Sample Programs	
+		1.	Participation	
+		2.	Substandard Results and Corrective Measures	
+	2.	On-site Inspection Programs	
+		1.	Participation	
+		2.	Deficiencies and Corrective Measures	
+	3.	Internal Correlation Testing Program	
+	4.	External Technical Complaints	
 7. INTERNAL QUALITY SYSTEM REVIEW	
-7.1	Internal Review	
-7.2	Management Review	
+	1.	Internal Review	
+	2.	Management Review	
 8. SUB-CONTRACTING	
-8.1	Technical Contracting	
-8.2	Calibration Contracting	
+	1.	Technical Contracting	
+	2.	Calibration Contracting	
 9. TECHNICAL SERVICES OFFERED	
-9.1	Contract Services	
-9.2	Implementation of New Services	
-9.3	Test Methods Performed	
-9.3.1	Phoenix Laboratory	
-9.3.2	Tucson Laboratory	
+	1.	Contract Services	
+	2.	Implementation of New Services	
+	3.	Test Methods Performed	
+		1.	Phoenix Laboratory	
+		2.	Tucson Laboratory	
  
 ## INTRODUCTION
 ###	Quality Policy Statement
 Speedie and Associates was established in 1980 to provide materials, geotechnical, and environmental engineering to clients who require superior service and timely results. Our objectives are to provide the information our clients need to make knowledgeable, cost-effective business decisions, decisions which help improve quality, reduce expenses, and decrease liability on their projects.  Our senior management is dedicated to ensuring the quality and efficiency of the projects on which we work by performing annual reviews with all technical staff to ensure that their performance meets all quality expectations; by participating in all applicable proficiency sample programs at the national, regional, and local level; and by performing in house round robin checks of specific tests to ensure the accuracy and repeatability of test results. The laboratory shall establish, implement, and maintain a quality system which meets the requirements specified in AASHTO R18. The laboratory shall have and maintain the current ADOT Materials Testing Manual. The manual shall be readily accessible to all laboratory personnel.
 
-1.2 	Purpose and Assignment of Responsibility
+###	Purpose and Assignment of Responsibility
 The purpose of this manual is to outline and describe the procedures for establishing and maintaining the Quality Control System required for performing analysis, research, inspection and testing by the Speedie and Associates laboratory.  The Soil/Concrete Laboratory Manager shall establish and maintain the Quality Control System and all related forms and procedures under the direct supervision of the Laboratory Division Manager. The Asphalt Laboratory Manager shall serve in the absence of the Soils/Concrete Laboratory Manager. Periodically, this Quality System Manual will be reviewed and revised as appropriate.
 
-1.3	Governing Documents
+###	Governing Documents
 All sampling and testing will be performed in accordance with:
 •	AASHTO
 •	ASTM
@@ -97,8 +97,9 @@ All sampling and testing will be performed in accordance with:
 •	Army Corps of Engineers
 •	Client provided specifications
 •	Speedie and Associates internal procedures 
-2. ORGANIZATION and ORGANIZATIONAL POLICIES
-2.1	Legal Name and Address
+
+## ORGANIZATION and ORGANIZATIONAL POLICIES
+###	Legal Name and Address
 Name:				Speedie and Associates, Inc.
 
 Main Address:		3331 East Wood Street
@@ -111,122 +112,126 @@ Satellite Addresses:		4025 East Huntington Drive, #140
 				3125 East 47th Street
 				Tucson, Arizona   85713
 
-2.2	Owners, Officers, and Managers
+###	Owners, Officers, and Managers
 The following lists the owners and the principal officers and managers of Speedie and Associates.
 
-2.2.1	Principal Officers and Managers
+####	Principal Officers and Managers
 President, Geotechnical/Environmental Division Manager		Gregg A. Creaser, P.E.
 Secretary, Field Services Division Manager		Brett P. Creaser, P.E.
 Vice President, Laboratory Division Manager 		Donald L. Cornelison, P.E.
 
-2.2.2	Owners
-Gregg A. Creaser, P.E.
-		Brett P. Creaser, P.E.
-		Donald L. Cornelison, P.E.
+####	Owners
+* Gregg A. Creaser, P.E.
+* Brett P. Creaser, P.E.
+* Donald L. Cornelison, P.E.
 
-2.3	Authorized Signatories
+###	Authorized Signatories
 Speedie and Associates has established separate lists for authorized signatories as outlined in the following categories: 
 
-2.3.1	Financial Signatories
+####	Financial Signatories
 The following individuals are authorized to sign checks and initiate financial transactions for the company.
 
-President, Geotechnical/Environmental Division Manager	Gregg A. Creaser, P.E. 
-Secretary, Field Services Division Manager	Brett P. Creaser, P.E.
-Vice President, Laboratory Division Manager	Donald L. Cornelison, P.E.
+* President, Geotechnical/Environmental Division Manager	Gregg A. Creaser, P.E. 
+* Secretary, Field Services Division Manager	Brett P. Creaser, P.E.
+* Vice President, Laboratory Division Manager	Donald L. Cornelison, P.E.
 
-2.3.2	Contractual Signatories
+####	Contractual Signatories
 The following individuals are authorized to sign contracts and purchase agreements for the company.  Before proposing or commencing new work, one of these signatories is responsible for reviewing the scope and requirements of the project to ensure the appropriate resources and facilities are available to complete the required work.  If it is found that resources or facilities are lacking, the individual will either decline the work or arrange to acquire the necessary resources.
 
-President, Geotechnical/Environmental Division Manager	Gregg A. Creaser, P.E. 
-Secretary, Field Services Division Manager	Brett P. Creaser, P.E.
-Vice President, Laboratory Division Manager	Donald L. Cornelison, P.E.
-Environmental Department Manager	Timothy J. Rheinschmidt, R.G.
-Northern Arizona Regional Manager	Clay W. Spencer, R.G.
-Tucson Office Manager	Justin Manchester
+* President, Geotechnical/Environmental Division Manager	Gregg A. Creaser, P.E. 
+* Secretary, Field Services Division Manager	Brett P. Creaser, P.E.
+* Vice President, Laboratory Division Manager	Donald L. Cornelison, P.E.
+* Environmental Department Manager	Timothy J. Rheinschmidt, R.G.
+* Northern Arizona Regional Manager	Clay W. Spencer, R.G.
+* Tucson Office Manager	Justin Manchester
 
-2.3.3 	Technical Report Signatories
+#### 	Technical Report Signatories
 The following individuals are authorized to sign both internal and external reports which contain technical data and/or information.
 
-2.3.3.1		Geotechnical/Environmental Division
-Geotechnical/Environmental Division Manager	Gregg A. Creaser, P.E.
-Environmental Department Manager	Tim Rheinschmidt, R.G.
+#####		Geotechnical/Environmental Division
+* Geotechnical/Environmental Division Manager	Gregg A. Creaser, P.E.
+* Environmental Department Manager	Tim Rheinschmidt, R.G.
 
-2.3.3.2		Field Services Division
-Field Services Division Manager	Brett P. Creaser, P.E.
-Field Services Department Manager	Jason Wells, P.E.
+#####		Field Services Division
+* Field Services Division Manager	Brett P. Creaser, P.E.
+* Field Services Department Manager	Jason Wells, P.E.
 
-2.3.3.4		Laboratory Division
-Laboratory Division Manager	Donald L. Cornelison, P.E.
-Laboratory Supervisors	Brandon Wong and John Neeley
+#####		Laboratory Division
+* Laboratory Division Manager	Donald L. Cornelison, P.E.
+* Laboratory Supervisors	Brandon Wong and John Neeley
 
-2.3.3.5		Northern Arizona Department
-Field Services Division Manager	Brett P. Creaser, P.E.
-Laboratory Division Manager	Donald L. Cornelison, P.E.
-Northern Arizona Regional Manager	Clay W. Spencer, R.G.
+#####		Northern Arizona Department
+* Field Services Division Manager	Brett P. Creaser, P.E.
+* Laboratory Division Manager	Donald L. Cornelison, P.E.
+* Northern Arizona Regional Manager	Clay W. Spencer, R.G.
 
-2.3.3.6		Tucson Department
-Division Manager	Donald L. Cornelison, P.E.
-Tucson Laboratory Manager	Justin Manchester
-Project Manager/Laboratory Supervisor	Diego Ruiz
+#####		Tucson Department
+* Division Manager	Donald L. Cornelison, P.E.
+* Tucson Laboratory Manager	Justin Manchester
+* Project Manager/Laboratory Supervisor	Diego Ruiz
 
-2.4 	External Accreditation Programs
+### 	External Accreditation Programs
 The following is a list of agencies which inspect our facilities, personnel, equipment, procedures, and quality systems for purposes of accreditation, recognition, and qualification. 
-AGENCY	ACCREDITATION	INSPECTION	INITIAL DATE
-ADOT			11/24/85
-AASHTO			11/01/89
-AASHTO re:source			11/28/86
-CCRL			03/21/86
+AGENCY | ACCREDITATION | INSPECTION | INITIAL DATE
+______ | _____________ | __________ | ____________
+ADOT | :ballot_box_with_check: | :ballot_box_with_check: | 11/24/85
+AASHTO | :ballot_box_with_check: | | 11/01/89
+AASHTO re:source | | :ballot_box_with_check: | 11/28/86
+CCRL | | :ballot_box_with_check: | 03/21/86
 
 
 
-2.5	Ownership and Management Structure
+###	Ownership and Management Structure
 Organization charts can be found in our Personnel Files document. 
-3. STAFF
-3.1	Position Descriptions
-President
+
+## STAFF
+###	Position Descriptions
+**President**
 The position is responsible for all major corporate administrative and financial decisions and policy implementation.
 
-Vice President
+**Vice President**
 The position is responsible for overall administrative and technical direction and operation of one or more divisions of the company, exercising supervision over the department managers in the assigned divisions. Minimum qualifications include registration as a Professional Engineer and relevant managerial experience. Receives direction and review from the President.
 
-Geotechnical/Environmental Division Manager
+**Geotechnical/Environmental Division Manager**
 The position manages the geotechnical and environmental departments. The position is responsible for day-to-day administrative and technical activities and exercises supervision over technical staff in the Geotechnical and Environment departments. Minimum qualifications include registration as Professional Engineer and managerial experience. This position receives immediate supervision from the Vice-President.
 
-Field Services Division Manager
+**Field Services Division Manager**
 The position manages the field services department. The position is responsible for day-to-day administrative and technical activities. Oversees the field work and reviews all related testing. Responsible for personnel management of major projects, troubleshooting field problems and client complaints, initial project start-up, file maintenance, and post project follow-up. This position receives immediate supervision from the Vice President. The position may directly oversee activities of the Technical Staff. Minimum qualifications include registration as a Professional Engineer and relevant managerial experience.
 
-Laboratory Division Manager
-Manages laboratory operations and reviews professional work. This position has oversight and direct supervision in all areas of testing, inspection and investigation. Minimum qualifications include registration as Professional Engineer and relevant managerial experience. In the absence of the Laboratory Division Manager, the Quality Assurance Manager shall act as deputy.
+**Laboratory Division Manager**
+The position manages laboratory operations and reviews professional work. This position has oversight and direct supervision in all areas of testing, inspection and investigation. Minimum qualifications include registration as Professional Engineer and relevant managerial experience. In the absence of the Laboratory Division Manager, the Quality Assurance Manager shall act as deputy.
 
-Quality Assurance Manager
-Quality Assurance Manager is responsible for investigation of technical complaints, performing quality assurance checks, and proficiency sample reviews.  He/she is also responsible for equipment procurement, inventory and calibration, personnel training, and accreditation compliance. The Quality Assurance Manager receives immediate supervision from the Laboratory Division Manager. Minimum qualifications include a High School Diploma, certification by NICET or ATTI or BS in Engineering or related Field or 5 years relevant managerial experience. In the absence of the Quality Assurance Manager, the Quality Systems Manager shall act as deputy.
+**Quality Assurance Manager**
+The position is responsible for investigation of technical complaints, performing quality assurance checks, and proficiency sample reviews.  He/she is also responsible for equipment procurement, inventory and calibration, personnel training, and accreditation compliance. The Quality Assurance Manager receives immediate supervision from the Laboratory Division Manager. Minimum qualifications include a High School Diploma, certification by NICET or ATTI or BS in Engineering or related Field or 5 years relevant managerial experience. In the absence of the Quality Assurance Manager, the Quality Systems Manager shall act as deputy.
 
-Quality Systems Manager
+**Quality Systems Manager**
 The position is responsible to assist the Quality Assurance Manager in maintaining equipment calibration, technical staff competency, quality system records, and accreditation compliance. This position also works with laboratory technical staff by assisting with specialty testing in the asphalt, concrete, and soil/aggregate laboratories pursuant towards the implementation or establishment of new tests/methods. Works under the supervision of the Quality Assurance Manager and the Laboratory Division Manager. Minimum qualifications include a High School Diploma plus either P.E., E.I.T., certification by NICET or BS in Engineering or related Field, or 5 years relevant managerial or materials testing laboratory experience.
 
-Project Assistant
+**Quality Assurance Technician**
+The position is responsible to assist the Quality Assurance Manager in performing equipment maintenance and calibration, personnel training, and accreditation compliance activities. Works under the supervision of the Quality Assurance Manager and the Laboratory Division Manager. Minimum qualifications include a High School Diploma.
+
+**Project Assistant**
 The position is responsible for data entry of concrete, asphalt and soil laboratory testing results. He/she receives immediate supervision from Laboratory Division Manager. Minimum qualifications include High School Diploma, plus either P.E., E.I.T., certification by NICET or BS in Engineering or related Field, or 5 years relevant managerial experience and highway materials sampling and testing experience.
 
-Concrete Laboratory Manager
+**Concrete Laboratory Manager**
 The position is responsible for concrete laboratory; personnel scheduling and review of test data. In addition, the Concrete Laboratory Manager is responsible for file maintenance, client contact, and follow-up. The Concrete Laboratory Manager coordinates and directly oversees activities of the concrete technical staff, acting as their supervising technician. He/she receives immediate supervision from Laboratory Division Manager. Minimum qualifications include High School Diploma, plus either P.E., E.I.T., certification by NICET or BS in Engineering or related Field or 5 years relevant managerial experience and highway materials sampling and testing experience.
 
-
-
-Soil Laboratory Manager
+**Soil Laboratory Manager**
 The position is responsible for soil laboratory; personnel scheduling and review of test data. In addition, the Soil Laboratory Manager is responsible for file maintenance, client contact, and follow-up. The Soil Laboratory Manager coordinates and directly oversees activities of the soil technical staff, acting as their supervising technician. In addition, the Soil Laboratory Manager has overall responsibility for the technical operations of the laboratory. He/she receives immediate supervision from Laboratory Division Manager. Minimum qualifications include High School Diploma, plus either P.E., E.I.T., certification by NICET or BS in Engineering or related Field, or 5 years relevant managerial experience and highway materials sampling and testing experience.
 
-Asphalt Laboratory Manager
+**Asphalt Laboratory Manager**
 The position is responsible for the asphalt laboratory; personnel scheduling and review of test data. The Asphalt Laboratory Manager is responsible for file maintenance, client contact, and follow-up. The Asphalt Laboratory Manager coordinates and directly oversees activities of the asphalt technical staff, acting as their supervising technician. In addition the Asphalt Laboratory Manager assumes responsibility for the technical operations of the laboratory in the absence of the Soil Laboratory Manager. He/she receives immediate supervision from Laboratory Division Manager. Minimum qualifications include High School Diploma, plus either P.E., E.I.T., certification by NICET or BS in Engineering or related Field, or 5 years relevant managerial experience and highway materials sampling and testing experience.
 
-Technical Staff
+**Technical Staff**
 The Technical Staff is responsible for performing lab and field tests in an accurate and efficient manner. They receive immediate supervision from Laboratory Division Manager, Field Division Manager, Soil/Concrete Laboratory Manager, or Asphalt Laboratory Manager. Minimum qualifications include High School Diploma, GED, or equivalent, and ATTI or ACI certification.
 
-Technical Staff Trainee
+**Technical Staff Trainee**
 Responsible for performing the lab and field tests in an accurate and efficient manner under the direct supervision of the Laboratory Division Manager, Field Division Manager, Soil/Concrete Laboratory Manager, or Asphalt Laboratory Manager. No minimum qualifications required.
 
-3.2	Biographies
+###	Biographies
 Biographical sketches of the supervisory and technical staff, in our Phoenix and Tucson offices, within the scope of this manual, can be found in our Personnel Files document.
-3.3	Personnel Training
+
+###	Personnel Training
 In-house training of technicians is performed under supervision of the Quality Assurance Manager, or designee. The Quality Assurance Manager shall prepare training and Competency Evaluation Forms for all technicians. Upon completing review of the forms, they will be distributed to Division Managers, when applicable, and filed. The Training and Competency Evaluation Forms will be kept electronically in the Department 8 directory under Accredit/Forms/Training. They shall include the name of the technician, name of the evaluator, test method evaluated, the date and results. Technicians shall be encouraged to pursue certification through NICET, ACI, ICBO, and ATI programs. Copies of certification and training documents will be placed in the technician's personnel file that is kept in the company administrative file cabinet in the Human Resource Manager’s office.
 
 3.3.1	Technical Training
