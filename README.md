@@ -3,20 +3,20 @@
 ## Table of Contents
 
 1. INTRODUCTION	4
-1.1 	Quality Policy Statement	4
-1.2 	Purpose and Assignment of Responsibility	4
-1.3	Governing Documents	4
+	1. 	Quality Policy Statement	4
+	2. 	Purpose and Assignment of Responsibility	4
+	3.	Governing Documents	4
 2. ORGANIZATION and ORGANIZATIONAL POLICIES	5
-2.1	Legal Name and Address	5
-2.2	Owners, Officers, and Managers	5
-2.2.1	Principal Officers and Managers	5
-2.2.2	Owners	5
-2.3	Authorized Signatories	5
-2.3.1	Financial Signatories	6
-2.3.2	Contractual Signatories	6
-2.3.3 	Technical Report Signatories	6
-2.4 	External Accreditation Programs	7
-2.5	Ownership and Management Structure	7
+	1.	Legal Name and Address	5
+	2.	Owners, Officers, and Managers	5
+		1.	Principal Officers and Managers	5
+		2.	Owners	5
+	3.	Authorized Signatories	5
+		1.	Financial Signatories	6
+		2.	Contractual Signatories	6
+		3. 	Technical Report Signatories	6
+	4. 	External Accreditation Programs	7
+	5.	Ownership and Management Structure	7
 3. STAFF	8
 3.1	Position Descriptions	8
 3.2	Biographies	10
