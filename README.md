@@ -103,7 +103,7 @@ All sampling and testing will be performed in accordance with:
 
 ###	Legal Name and Address
 <p>
-	<b>Name:</b>
+	<b>Name:</b><br/>
 	Speedie and Associates, Inc.
 </p>
 
