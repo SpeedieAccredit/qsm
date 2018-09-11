@@ -103,9 +103,11 @@ All sampling and testing will be performed in accordance with:
 
 ###	Legal Name and Address
 **Name:**
+
 Speedie and Associates, Inc.
 
 **Main Address:**
+
 3331 East Wood Street
 Phoenix, Arizona   85040
 	
@@ -113,6 +115,7 @@ Phone: (602) 997-6391
 Fax: (602) 943-5508
 
 **Satellite Addresses:**
+
 4025 East Huntington Drive, #140
 Flagstaff, Arizona   86004
 			
