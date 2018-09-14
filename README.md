@@ -401,7 +401,7 @@ A sub-contractor calibrates compression machines, reference thermometers, provin
 
 ####	Internal Procedures
 
-Internal procedures used for calibration and/or verification of equipment not calibrated in accordance with NIST or other nationally recognized standards organizations can be found in our Internal Procedures Manual located in a Quality Assurance directory on the compnay server. All equipment used during these internal procedures have certificates of traceability located in the Quality Assurance directory as well.
+Internal procedures used for calibration and/or verification of equipment not calibrated in accordance with NIST or other nationally recognized standards organizations can be found in our [Internal Procedures Manual](http://speedie.test/docs/internal_procedures_manual). All equipment used during these internal procedures have certificates of traceability located in the Quality Assurance directory on the company server.
 
 <h3><a id="it-equipment"></a>
 	IT Equipment
