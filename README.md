@@ -2,7 +2,7 @@
 	QUALITY SYSTEM MANUAL
 </h1>
 <a href="https://github.com/speedie-and-associates/qsm/releases" class="badge badge-secondary">
-	Last Updated 9/12/2018
+	Last Updated 9/14/2018
 </a>
 
 ## Table of Contents
@@ -401,7 +401,7 @@ A sub-contractor calibrates compression machines, reference thermometers, provin
 
 ####	Internal Procedures
 
-Internal procedures used for calibration and/or verification of equipment not calibrated in accordance with NIST or other nationally recognized standards organizations can be found in our [Internal Procedures Manual](http://speedie.test/docs/internal_procedures_manual). All equipment used during these internal procedures have certificates of traceability located in the Quality Assurance directory on the company server.
+Internal procedures used for calibration and/or verification of equipment not calibrated in accordance with NIST or other nationally recognized standards organizations can be found in our [Internal Procedures Manual](http://speedie.equipment/docs/internal_procedures_manual). All equipment used during these internal procedures have certificates of traceability located in the Quality Assurance directory on the company server.
 
 <h3><a id="it-equipment"></a>
 	IT Equipment
