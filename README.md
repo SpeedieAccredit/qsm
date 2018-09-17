@@ -308,9 +308,9 @@ New employees with prior experience shall demonstrate competency in the test pro
 
 #### Technician Levels
 
-A new technicians will be considered a _Trainee_ for the first 3 months of employment, which is a probationary period. After 3 months, if he/she continues as a non-certified technician performing only basic laboratory tasks, he/she will be considered a _Non-Certified Technician_. As soon as a technician receives certification in any set of field or laboratory tests, he/she will be promoted to _Level I Technician_. One year after having received certification, the technician will be promoted to _Level II Technician_; and five years after receiving certification, will be promoted to _Level III Technician_. This schema is represented by the table below.
+A new technicians will be considered a _Trainee_ for the first 3 months of employment, which is a probationary period. After 3 months, if he/she continues as a non-certified technician performing only basic laboratory tasks and specific testing, he/she will be considered a _Non-Certified Technician_, and will be evaluated annually on test methods they have been trained in. As soon as a technician receives certification in any set of field or laboratory tests, he/she will be promoted to _Level I Technician_. One year after having received certification, the technician will be promoted to _Level II Technician_; and five years after receiving certification, will be promoted to _Level III Technician_. This schema is represented by the table below.
 
-LEVEL | PERIOD | CERTIFIED |
+LEVEL | EMPLOY PERIOD | CERTIFIED |
 ----- | ------ | --------- |
 Trainee | < 3 months |  |
 Non-Certified | > 3 months |  |
@@ -324,6 +324,7 @@ The Quality Assurance Manager or designee shall perform competency evaluations o
 
 LEVEL | EVALUATION INTERVAL |
 ----- | ------------------- |
+Non-Certified | 1 year |
 Level I | 1 year |
 Level II | 2 years |
 Level III | 2 years |
@@ -548,7 +549,7 @@ PROGRAM | Phoenix | Tucson |
 
 ####	Substandard Results and Corrective Measures
 
-Records of all data from the above referenced programs are kept in an Airtable database appropriate to the sample type. The results of the Proficiency Tests are discussed with the technician(s) involved in performing the test(s). In addition, equipment performance and/or accuracy are evaluated as needed. Any proficiency sample test results beyond 2 standard deviations of the sample mean are considered poor. When this occurs following steps are taken:
+Records of all data from the above referenced programs are kept in an Airtable database appropriate to the sample type, each of which can be accessed via links on our [QA Website](https://www.speedie.equipment/proficiency_records/home). The results of the Proficiency Tests are discussed with the technician(s) involved in performing the test(s). In addition, equipment performance and/or accuracy are evaluated as needed. Any proficiency sample test results beyond 2 standard deviations of the sample mean are considered poor. When this occurs following steps are taken:
 
 *	Determine if the Agency conducting the program correctly entered the data reported. 
 *	Determine if the test result obtained was properly transferred to the data sheet provided.
