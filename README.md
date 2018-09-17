@@ -2,7 +2,7 @@
 	QUALITY SYSTEM MANUAL
 </h1>
 <a href="https://github.com/speedie-and-associates/qsm/releases" class="badge badge-secondary">
-	Last Updated 9/14/2018
+	Last Updated 9/17/2018
 </a>
 
 ## Table of Contents
