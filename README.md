@@ -2,7 +2,7 @@
 	QUALITY SYSTEM MANUAL
 </h1>
 <a href="https://github.com/speedie-and-associates/qsm/releases" class="badge badge-secondary">
-	Last Updated 9/17/2018
+	Last Updated 9/20/2018
 </a>
 
 ## Table of Contents
@@ -296,7 +296,9 @@ Biographical sketches of the supervisory and technical staff, in our Phoenix and
 	Personnel Training
 </h3>
 
-In-house training of technicians is performed under supervision of the Quality Assurance Manager, or designee. The Quality Assurance Manager, or designee, shall utilize the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC), where the records are stored and searchable. The records shall include the name of the technician, name of the evaluator, test method evaluated, the date and results. Technicians shall be encouraged to pursue certification through NICET, ACI, ICBO, and ATTI programs. Copies of certification and training documents will be uploaded to the technician's personnel record that is located in the [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC).
+In-house training of technicians is performed under supervision of the Quality Assurance Manager, or designee. Designees for the performance of in-house training may include other Quality Assurance staff, Laboratory Supervisors, or other qualified staff, such as the Division Manager. The Quality Assurance Manager, or designee, shall utilize the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC), where the records are stored and searchable. The records shall include the name of the technician, name of the evaluator, test method evaluated, the date and results. Technicians shall be encouraged to pursue certification through NICET, ACI, ICBO, and ATTI programs. Copies of certification and training documents will be uploaded to the technician's personnel record that is located in the [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC).
+
+Training of technicians may also be performed by external agencies such as ATTI or ACI, as part of their technician certification programs. In these cases, the Quality Assurance Manager, or designee, shall create a record, in the same manner as described above, to mark the training done by the external agency.
 
 #### Technical Training
 
@@ -320,7 +322,9 @@ Level III | 5 years certified | ☑️ |
 
 ####	Competency Evaluations
 
-The Quality Assurance Manager or designee shall perform competency evaluations of Laboratory Managers (supervisors) every 3 years, and lab technicians (Levels II and III) every 2 years or as needed; Level I technicians are evaluated 1 year after having received certification in any set of field or laboratory tests. The Laboratory Manager and Lab Technician will be required to demonstrate each test procedure that is an element of the individuals regular work assignment. The Quality Assurance Manager shall record the test demonstrated, the date of the demonstration, and the results of the evaluation, utilizing the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC), where the records are stored and searchable.
+The Quality Assurance Manager or designee shall perform competency evaluations of Laboratory Managers (supervisors) every 3 years, and lab technicians (Levels II and III) every 2 years or as needed; Level I technicians are evaluated 1 year after having received certification in any set of field or laboratory tests. Designees for the performance of competency evaluations may include other Quality Assurance staff, Laboratory Supervisors, other qualified staff, such as the Division Manager, external certification agencies (eg. ATTI, ACI), and on-site assessors representing accreditation agencies (eg. ADOT, AASHTO, CCRL).
+
+The Laboratory Manager or Lab Technician will be required to demonstrate each test procedure that is an element of the individual's regular work assignment. The Quality Assurance Manager, or designee, shall record the individual or agency responsible for performing the evaluation, the test demonstrated, the date of the demonstration, and the results of the evaluation, utilizing the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC), where the records are stored and searchable.
 
 LEVEL | EVALUATION INTERVAL |
 ----- | ------------------- |
@@ -395,6 +399,8 @@ Our equipment database on our [QA Website](www.speedie.equipment) contains a sec
 The Quality Assurance Manager shall maintain the inventory database on our [QA Website](www.speedie.equipment), which includes each piece of equipment requiring calibration or verification. Each item shall contain information stating name of equipment, inventory number, condition when received, date placed in service, calibration frequency, previous calibration dates, and next date of calibration. 
 
 Required equipment shall be calibrated at specified intervals following the procedures indicated below. Newly acquired equipment without manufacturer's certification and equipment that has not been calibrated or verified because it has been removed from service shall be calibrated or verified before being placed in service. When any piece of equipment is broken, gives results that are suspect, or does not meet specification tolerances, the Quality Assurance Manager shall clearly label the equipment as out of service and remove it from service. The equipment shall be returned to service only after appropriate repairs are made and calibration or verification shows the equipment to function satisfactorily or to meet specification tolerances.
+
+Equipment whose accuracy or operation may be sensitive to relocation (eg. scales) shall be re-calibrated after being moved or used in the field, prior to being put back into service.
 
 In-house calibration and verification is performed under the supervision of the Quality Assurance Manager. Calibration due dates are entered and tracked in Todoist (a cross-platform task management application), and when equipment comes due for calibration, the Quality Assurance Manager or designee shall perform the calibration, make the appropriate records to be stored on the company server, update the equipment's status in the inventory database, and mark the task as done in Todoist. When the task is marked as done, the recurring due date will reset itself based on the appropriately entered interval for that type of equipment (for example, a 1 year interval for proctor hammers). 
 
@@ -471,6 +477,8 @@ When a report must be amended, a report form shall be completed indicating the a
 </h3>
 
 Records pertaining to testing, equipment calibration and verification, test reports, internal quality system reviews, proficiency sample testing, technician training and competency evaluations, and personnel matters shall be retained for a minimum of five years.
+
+Many types of records are kept indefinitely, either in electronic form, or in file cabinets located on-site. For records that are disposed of after a speficied time period (a minimum of five years), digital records shall be deleted from any servers, drives, or web platforms on which they exist, and paper records shall be shredded.
 
 ####	Client Confidentiality Agreement
 
