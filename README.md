@@ -85,7 +85,7 @@
 	3. [Test Methods Performed](#test-methods-performed)
 		1. Phoenix Laboratory
 		2. Tucson Laboratory
- 
+
 <h2><a id="introduction"></a>
 	INTRODUCTION
 </h2>
@@ -114,7 +114,7 @@ All sampling and testing will be performed in accordance with:
 *	Arizona Department of Transportation
 *	Army Corps of Engineers
 *	Client provided specifications
-*	Speedie and Associates internal procedures 
+*	Speedie and Associates internal procedures
 
 <h2><a id="organization-and-organizational-policies"></a>
 	ORGANIZATION and ORGANIZATIONAL POLICIES
@@ -130,13 +130,13 @@ Speedie and Associates, Inc.
 **Main Address:**<br/>
 3331 East Wood Street<br/>
 Phoenix, Arizona   85040
-	
+
 Phone: (602) 997-6391
 
 **Satellite Addresses:**<br/>
 4025 East Huntington Drive, #140<br/>
 Flagstaff, Arizona   86004
-			
+
 3125 East 47th Street<br/>
 Tucson, Arizona   85713
 
@@ -163,7 +163,7 @@ The following lists the owners and the principal officers and managers of Speedi
 	Authorized Signatories
 </h3>
 
-Speedie and Associates has established separate lists for authorized signatories as outlined in the following categories: 
+Speedie and Associates has established separate lists for authorized signatories as outlined in the following categories:
 
 ####	Financial Signatories
 
@@ -219,7 +219,7 @@ The following individuals are authorized to sign both internal and external repo
 	External Accreditation Programs
 </h3>
 
-The following is a list of agencies which inspect our facilities, personnel, equipment, procedures, and quality systems for purposes of accreditation, recognition, and qualification. 
+The following is a list of agencies which inspect our facilities, personnel, equipment, procedures, and quality systems for purposes of accreditation, recognition, and qualification.
 
 AGENCY | ACCREDITATION | INSPECTION | INITIAL DATE
 ------ | ------------- | ---------- | ------------
@@ -384,7 +384,7 @@ The Quality Assurance Manager will maintain records for each piece of equipment 
 
 ####	Equipment Maintenance
 
-The Quality Assurance Manager will maintain a file for each piece of equipment requiring maintenance. The file shall contain records of maintenance work performed, along with the manufacturer instructions (if applicable) and shall be kept electronically in a Quality Assurance directory on the company server. 
+The Quality Assurance Manager will maintain a file for each piece of equipment requiring maintenance. The file shall contain records of maintenance work performed, along with the manufacturer instructions (if applicable) and shall be kept electronically in a Quality Assurance directory on the company server.
 
 ####	Defective Equipment/Deficient Testing Procedures
 
@@ -396,13 +396,13 @@ Our equipment database on our [QA Website](www.speedie.equipment) contains a sec
 
 ####	Calibration and Verification Procedures
 
-The Quality Assurance Manager shall maintain the inventory database on our [QA Website](www.speedie.equipment), which includes each piece of equipment requiring calibration or verification. Each item shall contain information stating name of equipment, inventory number, condition when received, date placed in service, calibration frequency, previous calibration dates, and next date of calibration. 
+The Quality Assurance Manager shall maintain the inventory database on our [QA Website](www.speedie.equipment), which includes each piece of equipment requiring calibration or verification. Each item shall contain information stating name of equipment, inventory number, condition when received, date placed in service, calibration frequency, previous calibration dates, and next date of calibration.
 
-Required equipment shall be calibrated at specified intervals following the procedures indicated below. Newly acquired equipment without manufacturer's certification and equipment that has not been calibrated or verified because it has been removed from service shall be calibrated or verified before being placed in service. When any piece of equipment is broken, gives results that are suspect, or does not meet specification tolerances, the Quality Assurance Manager shall clearly label the equipment as out of service and remove it from service. The equipment shall be returned to service only after appropriate repairs are made and calibration or verification shows the equipment to function satisfactorily or to meet specification tolerances.
+Required equipment shall be calibrated at specified intervals following the procedures indicated below. Equipment that is used over a range of measurements (e.g., thermometers, dial indicators, calipers, ovens), the calibration or standardization procedure shall specify measurements taken over that range unless otherwise specified by (1) the manufacturer of the equipment, or (2) in a consensus calibration standard that is being referenced. Newly acquired equipment without manufacturer's certification and equipment that has not been calibrated or verified because it has been removed from service shall be calibrated or verified before being placed in service. When any piece of equipment is broken, gives results that are suspect, or does not meet specification tolerances, the Quality Assurance Manager shall clearly label the equipment as out of service and remove it from service. The equipment shall be returned to service only after appropriate repairs are made and calibration or verification shows the equipment to function satisfactorily or to meet specification tolerances.
 
 Equipment whose accuracy or operation may be sensitive to relocation (eg. scales) shall be re-calibrated after being moved or used in the field, prior to being put back into service.
 
-In-house calibration and verification is performed under the supervision of the Quality Assurance Manager. Calibration due dates are entered and tracked in Todoist (a cross-platform task management application), and when equipment comes due for calibration, the Quality Assurance Manager or designee shall perform the calibration, make the appropriate records to be stored on the company server, update the equipment's status in the inventory database, and mark the task as done in Todoist. When the task is marked as done, the recurring due date will reset itself based on the appropriately entered interval for that type of equipment (for example, a 1 year interval for proctor hammers). 
+In-house calibration and verification is performed under the supervision of the Quality Assurance Manager. Calibration due dates are entered and tracked in Todoist (a cross-platform task management application), and when equipment comes due for calibration, the Quality Assurance Manager or designee shall perform the calibration, make the appropriate records to be stored on the company server, update the equipment's status in the inventory database, and mark the task as done in Todoist. When the task is marked as done, the recurring due date will reset itself based on the appropriately entered interval for that type of equipment (for example, a 1 year interval for proctor hammers).
 
 A sub-contractor calibrates compression machines, reference thermometers, proving rings, stability/flow machines, and possibly other equipment that our laboratory is not equipped to handle. The Quality Assurance Manager shall schedule the external calibrations and maintain the appropriate calibration records.
 
@@ -426,7 +426,7 @@ The hardware of all computers/devices installed by the IT Department shall be ma
 
 ####	Data Integrity
 
-All data associated with laboratory and quality operations shall be stored and transmitted according to policies of, and using the server and software put in place and maintained by the IT Department or the QA Systems Manager to ensure its integrity and redundancy. 
+All data associated with laboratory and quality operations shall be stored and transmitted according to policies of, and using the server and software put in place and maintained by the IT Department or the QA Systems Manager to ensure its integrity and redundancy.
 
 <h2><a id="test-records-and-reports"></a>
 	TEST RECORDS and REPORTS
@@ -456,13 +456,13 @@ In general, all testing is done in accordance with either ASTM, AASHTO, or other
 
 Internal reports are those reports that are not typed and submitted on company letterhead, but are generally reported to a technician or client in worksheet form. These are typically associated with Arizona Department of Transportation projects.
 
-In regards to report handling, all laboratory and field test forms will be filled out completely and accurately by the technician performing the testing. It is the responsibility of the Quality Assurance Manager, or designee, to instruct the technicians in the proper use of the test forms, as well as to demonstrate any necessary calculations. Completed forms are submitted to the Laboratory Manager or designee, for review. Any problems or missing items will be discussed with the performing technician. Copies of the test data are to be provided to the technician, or client that requested the testing so that it may be included in the technician’s file. Original test forms are to be filed, and copies distributed to Divisional Managers (when necessary) by the Laboratory Manager.  The files are kept in the laboratory file for the project for which the testing was done. 
+In regards to report handling, all laboratory and field test forms will be filled out completely and accurately by the technician performing the testing. It is the responsibility of the Quality Assurance Manager, or designee, to instruct the technicians in the proper use of the test forms, as well as to demonstrate any necessary calculations. Completed forms are submitted to the Laboratory Manager or designee, for review. Any problems or missing items will be discussed with the performing technician. Copies of the test data are to be provided to the technician, or client that requested the testing so that it may be included in the technician’s file. Original test forms are to be filed, and copies distributed to Divisional Managers (when necessary) by the Laboratory Manager.  The files are kept in the laboratory file for the project for which the testing was done.
 
 ####	External Reports
 
 External reports are those reports that are typed and submitted on company letterhead.
 
-Client reports will be submitted on a Technical Report Form showing the client's identification, project name, project number, sample identification, sample location, sample number, test results, person performing test, date sampled, date tested, date reported, deviations from the standards, and signature of Laboratory Manager or Laboratory Divisional Manger. These reports will also include diameter, cross sectional area, maximum load, compressive strength, type of fracture (if not conical), defects (specimen or caps) and the age of the specimen. It is the responsibility of the Laboratory Managers to review reports for completeness and accuracy prior to client submittal.  The procedure for distribution of records is the same for internal and external reports. 
+Client reports will be submitted on a Technical Report Form showing the client's identification, project name, project number, sample identification, sample location, sample number, test results, person performing test, date sampled, date tested, date reported, deviations from the standards, and signature of Laboratory Manager or Laboratory Divisional Manger. These reports will also include diameter, cross sectional area, maximum load, compressive strength, type of fracture (if not conical), defects (specimen or caps) and the age of the specimen. It is the responsibility of the Laboratory Managers to review reports for completeness and accuracy prior to client submittal.  The procedure for distribution of records is the same for internal and external reports.
 
 ####	Distribution of Reports
 
@@ -491,7 +491,7 @@ It is the policy of Speedie and Associates to treat all materials and samples re
 ####	Transporting Samples
 
 **Concrete Test Specimens**<br/>
-It is typically the responsibility of the technician fabricating the concrete test specimens to transport them back to the laboratory. If it is necessary for someone else to return the specimens to the laboratory, that person will be designated by the Laboratory Manager. The specimens shall be brought into the laboratory within 48 hours of fabrication, unless specific instructions otherwise are given. In all cases the specimens shall be transported in a protective box to keep the specimens from being damaged. Shortly after arrival at the laboratory, the specimens shall be stripped, labeled, and placed in a suitable environment to cure. 
+It is typically the responsibility of the technician fabricating the concrete test specimens to transport them back to the laboratory. If it is necessary for someone else to return the specimens to the laboratory, that person will be designated by the Laboratory Manager. The specimens shall be brought into the laboratory within 48 hours of fabrication, unless specific instructions otherwise are given. In all cases the specimens shall be transported in a protective box to keep the specimens from being damaged. Shortly after arrival at the laboratory, the specimens shall be stripped, labeled, and placed in a suitable environment to cure.
 
 **Aggregate Test Samples**<br/>
 Technicians sampling aggregates at remote locations shall, after obtaining a sufficient size sample, place the sample in a suitable container that will prevent sample loss and/or contamination. Generally a canvas sack or a five-gallon bucket will be utilized. Carefully secure the specimens in the bed of their truck, making sure that each sample has been properly identified (by use of sample tags or labels on the bags). The samples are then transported to the laboratory, at which time a work request is completed and placed with sample prior to beginning any testing.
@@ -507,7 +507,7 @@ After being logged in, samples are stored in the testing area, or the sample sto
 ####	Sample Retention
 
 **Internally Reported Samples**<br/>
-Samples with acceptable test results are generally discarded when testing is complete, the resulting data reviewed, and no further testing required. 
+Samples with acceptable test results are generally discarded when testing is complete, the resulting data reviewed, and no further testing required.
 
 **Externally Reported Samples**<br/>
 Samples are generally retained for at least 30 days after testing is completed, or until work utilizing this material is completed (e.g., aggregates for Asphalt Concrete mix designs). Upon client request, samples may be retained for longer periods. After expiration of the time limit the client is contacted for sample disposal instructions.
@@ -518,7 +518,7 @@ Samples are generally retained for at least 30 days after testing is completed, 
 Non-hazardous materials are discarded in a waste container to be collected and hauled away by a contracted firm.
 
 **Hazardous Materials**<br/>
-Hazardous materials generated as part of the asphalt extraction test procedure are collected and stored in DOT approved containers and disposed of using a registered hazardous waste hauler. No Hazardous Materials are accepted by the Laboratory other than those specifically generated during testing. 
+Hazardous materials generated as part of the asphalt extraction test procedure are collected and stored in DOT approved containers and disposed of using a registered hazardous waste hauler. No Hazardous Materials are accepted by the Laboratory other than those specifically generated during testing.
 
 <h2><a id="diagnostic-and-corrective-action"></a>
 	DIAGNOSTIC and CORRECTIVE ACTION
@@ -559,7 +559,7 @@ PROGRAM | Phoenix | Tucson |
 
 Records of all data from the above referenced programs are kept in an Airtable database appropriate to the sample type, each of which can be accessed via links on our [QA Website](https://www.speedie.equipment/proficiency_records/home). The results of the Proficiency Tests are discussed with the technician(s) involved in performing the test(s). In addition, equipment performance and/or accuracy are evaluated as needed. Any proficiency sample test results beyond 2 standard deviations of the sample mean are considered poor. When this occurs following steps are taken:
 
-*	Determine if the Agency conducting the program correctly entered the data reported. 
+*	Determine if the Agency conducting the program correctly entered the data reported.
 *	Determine if the test result obtained was properly transferred to the data sheet provided.
 *	Determine if all calculations leading to the test results obtained were correct.
 *	Determine if the equipment used to perform the test meets specification requirements.
@@ -615,7 +615,7 @@ We will also conduct regular on-site reviews of our permanent satellite laborato
 
 All complaints received from clients will be investigated and responded to promptly. Complaints concerning laboratory results or procedures will be the responsibility of the appropriate Laboratory Manager. Complaints concerning field results or procedures will be the responsibility of the Field Services Division Manager.
 
-When a complaint is received, the test data and equipment used will be reviewed for correctness and accuracy. The situation will be discussed with the technician(s) who performed the test(s). Every effort will be made to determine whether correct procedures were utilized. The appropriate supervisor will generate a report addressing all areas pertaining to the complaint. He will then submit it to the appropriate engineer for review. The report, including all conclusions and an amended test report, if necessary, will be issued to the client. 
+When a complaint is received, the test data and equipment used will be reviewed for correctness and accuracy. The situation will be discussed with the technician(s) who performed the test(s). Every effort will be made to determine whether correct procedures were utilized. The appropriate supervisor will generate a report addressing all areas pertaining to the complaint. He will then submit it to the appropriate engineer for review. The report, including all conclusions and an amended test report, if necessary, will be issued to the client.
 
 <h2><a id="internal-quality-system-review"></a>
 	INTERNAL QUALITY SYSTEM REVIEW
@@ -636,7 +636,7 @@ The review will include and address the following items:
 5.	Equipment Maintenance Reports
 6.	Technician Training Records
 
-Deficiencies noted in proficiency sample or inspection reports shall be discussed and addressed as stated in [Deficiencies and Corrective Measures](#on-site-inspection-programs). 
+Deficiencies noted in proficiency sample or inspection reports shall be discussed and addressed as stated in [Deficiencies and Corrective Measures](#on-site-inspection-programs).
 
 <h3><a id="management-review"></a>
 	Management Review
@@ -667,7 +667,7 @@ Speedie and Associates will utilize only laboratories meeting the following crit
 2.	They must participate in AASHTO, CCRL, and ADOT proficiency programs where appropriate.
 3.	They must be ADOT approved for the particular area utilized, where appropriate.
 
-These criteria are used to ensure testing competency and equipment calibration. If all of the testing required on a sample is performed by a subcontractor, then a Speedie cover letter is attached to the subcontractor's Technical Report and given to our client. If a sample requires testing that is performed by both the Speedie laboratory and a subcontractor, then the subcontractor's results are reported on a Speedie Technical Report along with the Speedie generated data. 
+These criteria are used to ensure testing competency and equipment calibration. If all of the testing required on a sample is performed by a subcontractor, then a Speedie cover letter is attached to the subcontractor's Technical Report and given to our client. If a sample requires testing that is performed by both the Speedie laboratory and a subcontractor, then the subcontractor's results are reported on a Speedie Technical Report along with the Speedie generated data.
 
 The primary testing firms that Speedie and Associates will be utilizing are as follows:
 
@@ -713,10 +713,10 @@ Speedie and Associates provides the following services:
 
 * Geotechnical Investigations and Site Development Reports
 * Construction Materials Testing and Construction QC/QA
-* Special Geotechnical, Structural, and Architectural Inspection 
-* Specialized Testing Services including FSA and GPR 
-* Full In-House Geotechnical and Materials Laboratory Testing 
-* Environmental Engineering and Site Assessments 
+* Special Geotechnical, Structural, and Architectural Inspection
+* Specialized Testing Services including FSA and GPR
+* Full In-House Geotechnical and Materials Laboratory Testing
+* Environmental Engineering and Site Assessments
 * Asbestos Inspections, Management Plans and Abatement Oversight
 * Additional Engineering & Consulting Services
 
@@ -737,7 +737,7 @@ _An up-to-date list can always be viewed on the [AASHTO re:source website](http:
 T49, T53, T228, T316, D5, D36, D70, D4402
 
 **Emulsified Asphalt**<br/>
-T59 / D6934 (Residue by Evaporation) 
+T59 / D6934 (Residue by Evaporation)
 
 **Asphalt Mixture**<br/>
 R47, T30, T164, T166, T167, T209, T245, T246 (Stability), T247, T269, T275, T283, T287, T308, T312, T329, D1074, D1075, D1188, D1560 (Stability), D1561, D2041, D2172, D2726, D2950, D3203, D4125, D4867, D5444, D6307, D6925, D6926, D6927
