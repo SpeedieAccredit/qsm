@@ -1,9 +1,7 @@
 <h1><a id="top"></a>
 	QUALITY SYSTEM MANUAL
-</h1>
-<a href="https://github.com/SpeedieAccredit/qsm/releases" class="badge badge-secondary">
-	Last Updated 9/20/2018
-</a>
+<h1>
+`[Last Updated 4/15/2019](https://github.com/SpeedieAccredit/qsm/releases)`
 
 ## Table of Contents
 
@@ -769,6 +767,7 @@ T11, T19, T21, T27, T84, T85, T96, T176, T248, T255, T304, C29, C40, C117, C127,
 **Concrete**<br/>
 C31, C39, C42, C78, C138, C143, C172, C173, C174, C192, C231, C511, C617 (7000 psi and below), C642, C1064, C1231 (7000 psi and below)
 
+---
 <div class="d-flex flex-row-reverse fixed-bottom">
 	<h1 class="pr-4 pb-2">
 		<a href="#top">🔝</a>
