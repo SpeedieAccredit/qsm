@@ -1,7 +1,7 @@
 <h1><a id="top"></a>
 	QUALITY SYSTEM MANUAL
 </h1>
-<a href="https://github.com/speedie-and-associates/qsm/releases" class="badge badge-secondary">
+<a href="https://github.com/SpeedieAccredit/qsm/releases" class="badge badge-secondary">
 	Last Updated 9/20/2018
 </a>
 
@@ -296,14 +296,14 @@ Biographical sketches of the supervisory and technical staff, in our Phoenix and
 	Personnel Training
 </h3>
 
-In-house training of technicians is performed under supervision of the Quality Assurance Manager, or designee. Designees for the performance of in-house training may include other Quality Assurance staff, Laboratory Supervisors, or other qualified staff, such as the Division Manager. The Quality Assurance Manager, or designee, shall utilize the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC), where the records are stored and searchable. The records shall include the name of the technician, name of the evaluator, test method evaluated, the date and results. Technicians shall be encouraged to pursue certification through NICET, ACI, ICBO, and ATTI programs. Copies of certification and training documents will be uploaded to the technician's personnel record that is located in the [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC).
+In-house training of technicians is performed under supervision of the Quality Assurance Manager, or designee. Designees for the performance of in-house training may include other Quality Assurance staff, Laboratory Supervisors, or other qualified staff, such as the Division Manager. The Quality Assurance Manager, or designee, shall utilize the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shrWGLskT3jMo4qwB), where the records are stored and searchable. The records shall include the name of the technician, name of the evaluator, test method evaluated, the date and results. Technicians shall be encouraged to pursue certification through NICET, ACI, ICBO, and ATTI programs. Copies of certification and training documents will be uploaded to the technician's personnel record that is located in the [Org & Evaluations Database](https://airtable.com/shrkkFJHnK1qcCKWM).
 
 Training of technicians may also be performed by external agencies such as ATTI or ACI, as part of their technician certification programs. In these cases, the Quality Assurance Manager, or designee, shall create a record, in the same manner as described above, to mark the training done by the external agency.
 
 #### Technical Training
 
 **Inexperienced Technicians**<br/>
-The technician shall be given a copy of the applicable test procedure and worksheet. The technician shall study the procedure and worksheet to become familiar with the equipment,terminology, test procedure, calculations, and test report forms. A qualified technician shall then demonstrate the test procedure for the technician. The technician shall then repeatedly perform the procedure under the guidance of a qualified technician until proficiency is established. An entry shall then be made in the technician’s Training and Competency Evaluation Form evidencing the technician’s ability to adequately perform the procedure.
+The technician shall be given a copy of the applicable test procedure and worksheet. The technician shall study the procedure and worksheet to become familiar with the equipment, terminology, test procedure, calculations, and test report forms. A qualified technician shall then demonstrate the test procedure for the technician. The technician shall then repeatedly perform the procedure under the guidance of a qualified technician until proficiency is established. An entry shall then be made in the technician’s Training and Competency Evaluation Form evidencing the technician’s ability to adequately perform the procedure.
 
 **Experienced Technicians**<br/>
 New employees with prior experience shall demonstrate competency in the test procedures assigned and shall be so documented in the Training and Competency Evaluation Form prior to being assigned unsupervised test responsibilities.
@@ -324,7 +324,7 @@ Level III | 5 years certified | ☑️ |
 
 The Quality Assurance Manager or designee shall perform competency evaluations of Laboratory Managers (supervisors) every 3 years, and lab technicians (Levels II and III) every 2 years or as needed; Level I technicians are evaluated 1 year after having received certification in any set of field or laboratory tests. Designees for the performance of competency evaluations may include other Quality Assurance staff, Laboratory Supervisors, other qualified staff, such as the Division Manager, external certification agencies (eg. ATTI, ACI), and on-site assessors representing accreditation agencies (eg. ADOT, AASHTO, CCRL).
 
-The Laboratory Manager or Lab Technician will be required to demonstrate each test procedure that is an element of the individual's regular work assignment. The Quality Assurance Manager, or designee, shall record the individual or agency responsible for performing the evaluation, the test demonstrated, the date of the demonstration, and the results of the evaluation, utilizing the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shr0GHIfwlFdl6cjC), where the records are stored and searchable.
+The Laboratory Manager or Lab Technician will be required to demonstrate each test procedure that is an element of the individual's regular work assignment. The Quality Assurance Manager, or designee, shall record the individual or agency responsible for performing the evaluation, the test demonstrated, the date of the demonstration, and the results of the evaluation, utilizing the web form for submitting an evaluation record to our [Org & Evaluations Database](https://airtable.com/shrWGLskT3jMo4qwB), where the records are stored and searchable.
 
 LEVEL | EVALUATION INTERVAL |
 ----- | ------------------- |
@@ -338,7 +338,7 @@ If an unsatisfactory result is recorded for a specific test, the evaluator shall
 
 ####	Training and Competency Evaluation Forms
 
-Training and Competency Evaluation forms shall be kept updated and formatted in accordance with AASHTO R18. The primary form used for submitting records is located on the web, and can be accessed via links embedded in our [QA website](www.speedie.equipment/internal_review_records/home).
+Training and Competency Evaluation forms shall be kept updated and formatted in accordance with AASHTO R18. [The primary form used for submitting records is available on the web](https://airtable.com/shrtOWHqegjRWC3Sh), and accessible by all staff who are required to perform evaluations. This form submits the evaluation record directly to our [Org & Evaluation Database](https://airtable.com/shrWGLskT3jMo4qwB).
 
 ####	Safety Training
 
@@ -362,7 +362,7 @@ Each laboratory is divided into three primary testing areas; concrete/aggregate,
 	Inventory
 </h3>
 
-An inventory of all appropriate equipment shall be maintained on our [QA Website](www.speedie.equipment) containing all inventory with calibration, service, and location history information. Manufacturer’s instructions, calibration records, and maintenance records shall all be stored in appropriately labeled directories on the company server. Each test apparatus is given an inventory number (auto assigned by the [QA Website](www.speedie.equipment)) when purchased. This number is affixed to the equipment by stamping, etching, or labeling, to identify the inventory number for that equipment at all times. When the inventory number is assigned, information including name, date received, date placed in service, condition when received, cost, manufacturer, model number, serial number, and calibration requirement is recorded into the inventory records on our [QA Website](www.speedie.equipment).
+An inventory of all appropriate equipment shall be maintained in our [Equipment & Consumables Database](https://airtable.com/shr5RBzpCltgQRrGH) containing all inventory with calibration, service, and location history information. Manufacturer’s instructions, calibration records, and maintenance records shall all be stored in the appropriate fields of the database records as well. Each test apparatus is given an inventory number when purchased. This number is affixed to the equipment by stamping, etching, or labeling, to identify the inventory number for that equipment at all times. When the inventory number is assigned, information including name, date received, date placed in service, condition when received, cost, manufacturer, model number, serial number, and calibration requirement is recorded into the inventory records in our [Equipment & Consumables Database](https://airtable.com/shr5RBzpCltgQRrGH).
 
 <h3><a id="consumable-materials"></a>
 	Consumable Materials
@@ -392,23 +392,23 @@ When equipment has been found to be defective or testing procedures are found to
 
 ####	Repaired Equipment
 
-Our equipment database on our [QA Website](www.speedie.equipment) contains a section for tracking the service history of a piece of equipment. When equipment is in need of repair, it shall be pulled out of service, and an entry made explaining the repairs required. When the equipment is ready for use again, it shall be re-calibrated (if the nature of the repair requires it), and an entry made in its service history explaining that it has been put back into service. Any documentation of the repair or service, such as receipts or records, shall be stored in an appropriate directory on the company server.
+Our [Equipment & Consumables Database](https://airtable.com/shr5RBzpCltgQRrGH) contains a section for tracking the [service history of a piece of equipment](https://airtable.com/shr8HN9SqHIWAAcfs). When equipment is in need of repair, it shall be pulled out of service, and an entry made explaining the repairs required. When the equipment is ready for use again, it shall be re-calibrated (if the nature of the repair requires it), and an entry made in its service history explaining that it has been put back into service. Any documentation of the repair or service, such as receipts or records, shall be uploaded to the service record in the database as well.
 
 ####	Calibration and Verification Procedures
 
-The Quality Assurance Manager shall maintain the inventory database on our [QA Website](www.speedie.equipment), which includes each piece of equipment requiring calibration or verification. Each item shall contain information stating name of equipment, inventory number, condition when received, date placed in service, calibration frequency, previous calibration dates, and next date of calibration.
+The Quality Assurance Manager shall maintain the [Equipment & Consumables Database](https://airtable.com/shr5RBzpCltgQRrGH), which includes each piece of equipment requiring calibration or verification. Each item shall contain information stating name of equipment, inventory number, condition when received, date placed in service, calibration frequency, previous calibration dates, and next date of calibration.
 
 Required equipment shall be calibrated at specified intervals following the procedures indicated below. Equipment that is used over a range of measurements (e.g., thermometers, dial indicators, calipers, ovens), the calibration or standardization procedure shall specify measurements taken over that range unless otherwise specified by (1) the manufacturer of the equipment, or (2) in a consensus calibration standard that is being referenced. Newly acquired equipment without manufacturer's certification and equipment that has not been calibrated or verified because it has been removed from service shall be calibrated or verified before being placed in service. When any piece of equipment is broken, gives results that are suspect, or does not meet specification tolerances, the Quality Assurance Manager shall clearly label the equipment as out of service and remove it from service. The equipment shall be returned to service only after appropriate repairs are made and calibration or verification shows the equipment to function satisfactorily or to meet specification tolerances.
 
 Equipment whose accuracy or operation may be sensitive to relocation (eg. scales) shall be re-calibrated after being moved or used in the field, prior to being put back into service.
 
-In-house calibration and verification is performed under the supervision of the Quality Assurance Manager. Calibration due dates are entered and tracked in Todoist (a cross-platform task management application), and when equipment comes due for calibration, the Quality Assurance Manager or designee shall perform the calibration, make the appropriate records to be stored on the company server, update the equipment's status in the inventory database, and mark the task as done in Todoist. When the task is marked as done, the recurring due date will reset itself based on the appropriately entered interval for that type of equipment (for example, a 1 year interval for proctor hammers).
+In-house calibration and verification is performed under the supervision of the Quality Assurance Manager. Calibration due dates are entered and tracked in Todoist (a cross-platform task management application), and when equipment comes due for calibration, the Quality Assurance Manager or designee shall perform the calibration, submit the appropriate records to the [calibration records section](https://airtable.com/shrkcVB1oNDgBD4xC) of the inventory database, update the equipment's status in the inventory database, and mark the task as done in Todoist. When the task is marked as done, the recurring due date will reset itself based on the appropriately entered interval for that type of equipment (for example, a 1 year interval for proctor hammers).
 
 A sub-contractor calibrates compression machines, reference thermometers, proving rings, stability/flow machines, and possibly other equipment that our laboratory is not equipped to handle. The Quality Assurance Manager shall schedule the external calibrations and maintain the appropriate calibration records.
 
 ####	Internal Procedures
 
-Internal procedures used for calibration and/or verification of equipment not calibrated in accordance with NIST or other nationally recognized standards organizations can be found in our [Internal Procedures Manual](http://speedie.equipment/docs/internal_procedures_manual). All equipment used during these internal procedures have certificates of traceability located in the Quality Assurance directory on the company server.
+Internal procedures used for calibration and/or verification of equipment not calibrated in accordance with NIST or other nationally recognized standards organizations can be found in the [Internal Procedures section](https://airtable.com/shrvnN3anUN5wqa8n) of our Equipment database. All equipment used to perform these internal procedures have certificates of traceability located in the Quality Assurance directory on the company server.
 
 <h3><a id="it-equipment"></a>
 	IT Equipment
@@ -418,7 +418,7 @@ Internal procedures used for calibration and/or verification of equipment not ca
 
 All software used on computers/devices involved in any of the processes or systems of laboratory and quality operations shall be approved and documented by the IT department to ensure it is maintained with appropriate updates and is adequate for use. Any deficiencies in software shall be reported to the IT Department immediately.
 
-As an exception to this, the [QA Website](wwww.speedie.equipment), the Airtable records system, and the Todoist task management system are maintained by the QA Systems Manager, who is responsible for updates to the software and for addressing deficiencies in those systems.
+As an exception to this, the Airtable database system and the Todoist task management system are maintained by the QA Systems Manager, who is responsible for updates to the software and for addressing deficiencies in those systems.
 
 ####	Hardware
 
@@ -557,7 +557,7 @@ PROGRAM | Phoenix | Tucson |
 
 ####	Substandard Results and Corrective Measures
 
-Records of all data from the above referenced programs are kept in an Airtable database appropriate to the sample type, each of which can be accessed via links on our [QA Website](https://www.speedie.equipment/proficiency_records/home). The results of the Proficiency Tests are discussed with the technician(s) involved in performing the test(s). In addition, equipment performance and/or accuracy are evaluated as needed. Any proficiency sample test results beyond 2 standard deviations of the sample mean are considered poor. When this occurs following steps are taken:
+Records of all data from the above referenced programs are kept in our [PSP Database](https://airtable.com/shrOMGFwQCu0pIKZK). The results of the Proficiency Tests are discussed with the technician(s) involved in performing the test(s). In addition, equipment performance and/or accuracy is evaluated as needed. Any proficiency sample test results beyond 2 standard deviations of the sample mean are considered poor. When this occurs following steps are taken:
 
 *	Determine if the Agency conducting the program correctly entered the data reported.
 *	Determine if the test result obtained was properly transferred to the data sheet provided.
@@ -567,7 +567,7 @@ Records of all data from the above referenced programs are kept in an Airtable d
 *	Take corrective action to repair or replace defective equipment or instruct the technician of the correct procedure to follow.
 *	Prepare a report of record summarizing the results of the investigation, identifying the cause of the poor results, if determined, and describing any corrective action taken
 
-The report is stored in the appropriate PSP records database for reference, as requested by the accrediting agencies. Any necessary laboratory procedural changes will be immediately implemented by the Laboratory Manager or designee.
+The report is stored in the [Low Ratings Response section](https://airtable.com/shrTdyBHXUp80unPj) of the PSP database for reference, as requested by the accrediting agencies. Any necessary laboratory procedural changes will be immediately implemented by the Laboratory Manager or designee.
 
 <h3><a id="on-site-inspection-programs"></a>
 	On-site Inspection Programs
@@ -625,7 +625,7 @@ When a complaint is received, the test data and equipment used will be reviewed 
 	Internal Review
 </h3>
 
-The Quality Assurance Manager shall review the appropriate records, reports, and associated documentation at least every twelve months to ensure that the established quality procedures are being followed. After the review, the Quality Assurance Manager shall discuss any deficiencies noted with the appropriate staff, ensure corrective action is taken, and prepare a report listing the items reviewed, the deficiencies identified, and the corrective action taken. The report shall be completed utilizing the web form created for submitting the records to our [Internal Reviews Database](https://airtable.com/shr0duXy08x2qcPSG/tblMtRhpuSibEBsMs/viwfKD8sNyAkEbwpH), where the records are stored and searchable.
+The Quality Assurance Manager shall review the appropriate records, reports, and associated documentation at least every twelve months to ensure that the established quality procedures are being followed. After the review, the Quality Assurance Manager shall discuss any deficiencies noted with the appropriate staff, ensure corrective action is taken, and prepare a report listing the items reviewed, the deficiencies identified, and the corrective action taken. The report shall be completed utilizing the web form created for submitting the records to the [Quality System Review Records section](https://airtable.com/shrDuok2K6dJIB5qP) of our [Internal Reviews Database](https://airtable.com/shr0duXy08x2qcPSG/tblMtRhpuSibEBsMs/viwfKD8sNyAkEbwpH), where the records are stored and searchable.
 
 The review will include and address the following items:
 
@@ -642,7 +642,7 @@ Deficiencies noted in proficiency sample or inspection reports shall be discusse
 	Management Review
 </h3>
 
-The Laboratory Division Manager shall review the Quality Management System Manual as well as select QMS records and reports at least every 12 months to ensure their adequacy and effectiveness. After the review, the Laboratory Division Manager shall discuss any deficiencies noted with the Quality Assurance Manager and any other appropriate staff, ensure corrective action is taken, and prepare a report listing the items reviewed, the deficiencies identified, and the corrective action taken. The report shall be completed utilizing the web form created for submitting the records to our [Internal Reviews Database](https://airtable.com/shr0duXy08x2qcPSG/tblMtRhpuSibEBsMs/viwfKD8sNyAkEbwpH), where the records are stored and searchable.
+The Laboratory Division Manager shall review the Quality Management System Manual as well as select QMS records and reports at least every 12 months to ensure their adequacy and effectiveness. After the review, the Laboratory Division Manager shall discuss any deficiencies noted with the Quality Assurance Manager and any other appropriate staff, ensure corrective action is taken, and prepare a report listing the items reviewed, the deficiencies identified, and the corrective action taken. The report shall be completed utilizing the web form created for submitting the records to the [Management Review Records section](https://airtable.com/shrUWQAjdnGWLbdm0) of our [Internal Reviews Database](https://airtable.com/shr0duXy08x2qcPSG/tblMtRhpuSibEBsMs/viwfKD8sNyAkEbwpH), where the records are stored and searchable.
 
 The review will include and address the following items:
 
