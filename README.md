@@ -2,9 +2,9 @@
 	QUALITY SYSTEM MANUAL
 </h1>
 
-```
 [Last Updated 4/15/2019](https://github.com/SpeedieAccredit/qsm/releases)
-```
+
+---
 
 ## Table of Contents
 
@@ -777,6 +777,7 @@ C31, C39, C42, C78, C138, C143, C172, C173, C174, C192, C231, C511, C617 (7000 p
 	</h1>
 </div>
 
+---
 
 <style>
   * {
