@@ -1,7 +1,10 @@
 <h1><a id="top"></a>
 	QUALITY SYSTEM MANUAL
-<h1>
-`[Last Updated 4/15/2019](https://github.com/SpeedieAccredit/qsm/releases)`
+</h1>
+
+```
+[Last Updated 4/15/2019](https://github.com/SpeedieAccredit/qsm/releases)
+```
 
 ## Table of Contents
 
